@@ -1,0 +1,16 @@
+train: /ssd_scratch/sarvesh/divider_segment/train/images
+val: /ssd_scratch/sarvesh/divider_segment/val/images
+
+nc: 9
+
+names:
+  0: curb
+  1: wall
+  2: sidewalk
+  3: single_solid_line
+  4: double_solid_line
+  5: police_barricade
+  6: cones
+  7: dashed_line
+  8: other_divider
+

@@ -1,0 +1,9 @@
+curb
+wall
+sidewalk
+single_solid_line
+double_solid_line
+police_barricade
+cones
+dashed_line
+other_divider
